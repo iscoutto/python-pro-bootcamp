@@ -1,5 +1,7 @@
 # Python-Pro-Bootcamp
- Projects made along the course 100 days of code by Dr. Angela Yu 
+ Projects made along the course 100 days of code by Dr. Angela Yu.
+
+ [![Udemy](https://img.shields.io/badge/Udemy-836fbd?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/share/103IHM/)
 
 &nbsp;
 
