@@ -11,4 +11,4 @@ At the end of each day of the course, the knowledge acquired is applied in the c
 📂 Project       | Description
 ---------     | ------
 [day-one-project.py](Projects/day-one-project.py)           | Band Name Generator: working with variables to manage data.
-[day-two-project.py](Projects/day-one-project.py)           | Tip Calculator: understanding data types and how to manipulate strings.
+[day-two-project.py](Projects/day-two-project.py)           | Tip Calculator: understanding data types and how to manipulate strings.
