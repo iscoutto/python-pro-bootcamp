@@ -10,6 +10,6 @@ At the end of each day of the course, the knowledge acquired is applied in the c
 
 📂 Project       | Description
 ---------     | ------
-[day-one-project.py](projects/day-one-project.py)           | Band Name Generator: working with variables to manage data.
-[day-two-project.py](projects/day-two-project.py)           | Tip Calculator: understanding data types and how to manipulate strings.
+[day-one-project.py](Python-Pro-Bootcamp/Projects/day-one-project.py)           | Band Name Generator: working with variables to manage data.
+[day-two-project.py](Python-Pro-Bootcamp/Projects/day-two-project.py)           | Tip Calculator: understanding data types and how to manipulate strings.
 
